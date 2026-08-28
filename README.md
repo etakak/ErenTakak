@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi, I'm Eren Takak
 
-<!--
-**ErenTakak/ErenTakak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Computer Science Student @ University of Bristol
+💼 AI Intern @ KLOIA (AWS Premier Consulting Partner)
+💡 Interests: AI/ML, Web Development
+🚀 Actively building and sharing new projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+
+- **Languages:** TypeScript, JavaScript, Java
+- **Frontend:** React
+- **DevOps & Testing:** CI/CD pipelines, testing infrastructure
+- **Domains:** Artificial Intelligence, Web Development, Automation
+
+---
+
+### 📫 Contact Me
+
+- 💼 LinkedIn: www.linkedin.com/in/eren-takak-28829a348
+- 📧 Email: [-]
+
+---
