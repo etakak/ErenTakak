@@ -19,6 +19,5 @@
 ### 📫 Contact Me
 
 - 💼 LinkedIn: www.linkedin.com/in/eren-takak-28829a348
-- 📧 Email: [-]
 
 ---
